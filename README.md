@@ -1,4 +1,4 @@
-# Individual Assignmnet 4
+# Individual Assignment 4
 
 Students are referred to the assignmnet specification document for the details about the assignment
 
